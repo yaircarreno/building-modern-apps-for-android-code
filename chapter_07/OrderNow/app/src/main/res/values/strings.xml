@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OrderNow</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="to_product_list_screen">Go to —> ProductList Screen</string>
+    <string name="product_detail">Product Detail Screen</string>
+    <string name="to_product_detail_screen">Go to —> ProductDetail Screen</string>
+    <string name="product_list">Product List Screen</string>
+    <string name="to_back">Go back</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="categories">Categories</string>
+    <string name="recommended">Recommended</string>
+    <string name="new_arrivals">New arrivals</string>
+    <string name="go_to_cart">Go to cart</string>
+    <string name="continue_shopping">Continue shopping</string>
+    <string name="title_detail_alert">Congratulations!</string>
+    <string name="text_detail_alert">The item was added to the shopping cart.</string>
+    <string name="checkout">Checkout</string>
+    <string name="pay_order">Pay order $ %1$s</string>
+    <string name="continue_order">Continue order</string>
+</resources>

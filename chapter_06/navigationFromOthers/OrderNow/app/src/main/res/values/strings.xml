@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OrderNow</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="to_product_list_screen">Go to —> ProductList Screen</string>
+    <string name="product_detail">Product Detail Screen</string>
+    <string name="to_product_detail_screen">Go to —> ProductDetail Screen</string>
+    <string name="product_list">Product List Screen</string>
+    <string name="to_back">Go back</string>
+</resources>
